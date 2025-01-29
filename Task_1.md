@@ -13,4 +13,6 @@ References:
 [2] Jui, Tonni Das, and Pablo Rivas. "Fairness issues, current approaches, and challenges in machine learning models." International Journal of Machine Learning and Cybernetics (2024): 1-31.
 [3] Glanois, Claire, et al. "A survey on interpretable reinforcement learning." Machine Learning (2024): 1-44.
 [4] Montesinos López, Osval Antonio, Abelardo Montesinos López, and Jose Crossa. "Overfitting, model tuning, and evaluation of prediction performance." Multivariate statistical machine learning methods for genomic prediction. Cham: Springer International Publishing, 2022. 109-139.
-![image](https://github.com/user-attachments/assets/11d79d2b-7162-4570-88d4-e8a0030dfb6e)
+
+![Screenshot 2025-01-29 110552](https://github.com/user-attachments/assets/b62253a3-59a4-43c7-be88-ad0f332a6b15)
+
